@@ -1,0 +1,817 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\anprAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\servicesimpl\\platedetectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\servicesimpl\\platedetectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\servicesimpl\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\servicesimpl\\cameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\anprapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\anprapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\anprapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\anprapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\anprapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\anprapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\servicesimpl\\detectionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\servicesimpl\\detectionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\hubs\\detectionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\hubs\\detectionhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\servicesimpl\\ocrdetectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\servicesimpl\\ocrdetectorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\servicesimpl\\detectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\servicesimpl\\detectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\iservices\\icameramanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\iservices\\icameramanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\iservices\\cameramanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\iservices\\cameramanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\iservices\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\iservices\\icameraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\repositories\\irepositories\\idetectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\repositories\\irepositories\\idetectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\repositories\\irepositories\\icamerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\repositories\\irepositories\\icamerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\repositories\\repositoriesimpl\\detectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\repositories\\repositoriesimpl\\detectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\repositories\\repositoriesimpl\\camerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\repositories\\repositoriesimpl\\camerarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\domain\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\domain\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\controllers\\detectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\controllers\\detectorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\properties\\publishprofiles\\folderprofile.pubxml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\controllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\controllers\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\hubs\\streamhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\hubs\\streamhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\domain\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\domain\\stream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\domain\\plate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\domain\\plate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\domain\\detection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\domain\\detection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\domain\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\domain\\detector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\domain\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\domain\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\services\\iservices\\idetectionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\services\\iservices\\idetectionmanagerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\dto\\addcameradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\dto\\addcameradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\models\\dto\\cameradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\models\\dto\\cameradto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\common\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\common\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|c:\\users\\user\\desktop\\anprapp\\anprapi\\common\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0AA3AD-E883-45A8-B080-0490117EB964}|anprAPI\\anprAPI.csproj|solutionrelative:anprapi\\common\\json.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\YoloDotNet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Data\\YoloBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Yolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Models\\ObjectDetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Configuration\\VideoMetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Handlers\\VideoHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetectionManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\DetectionManagerService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\ServicesImpl\\DetectionManagerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\DetectionManagerService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\ServicesImpl\\DetectionManagerService.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAUwKQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T11:56:57.303Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetectionService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\DetectionService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\ServicesImpl\\DetectionService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\DetectionService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\ServicesImpl\\DetectionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T17:11:39.367Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DetectorController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Controllers\\DetectorController.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Controllers\\DetectorController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Controllers\\DetectorController.cs",
+              "RelativeToolTip": "anprAPI\\Controllers\\DetectorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:13:11.487Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "anprAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\anprAPI.csproj",
+              "RelativeDocumentMoniker": "anprAPI\\anprAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\anprAPI.csproj",
+              "RelativeToolTip": "anprAPI\\anprAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T09:28:56.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "anprAPI.http",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\anprAPI.http",
+              "RelativeDocumentMoniker": "anprAPI\\anprAPI.http",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\anprAPI.http",
+              "RelativeToolTip": "anprAPI\\anprAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-12T16:56:41.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICameraManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\ICameraManagerService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\IServices\\ICameraManagerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\ICameraManagerService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\IServices\\ICameraManagerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:29:16.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\CameraService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\ServicesImpl\\CameraService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\CameraService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\ServicesImpl\\CameraService.cs",
+              "ViewState": "AQIAAMUBAAAAAAAAAAAowBICAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:32:13.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlateDetectorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\PlateDetectorService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\ServicesImpl\\PlateDetectorService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\PlateDetectorService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\ServicesImpl\\PlateDetectorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:29:35.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Program.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Program.cs",
+              "RelativeToolTip": "anprAPI\\Program.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:50:49.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetectionHub.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Hubs\\DetectionHub.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Hubs\\DetectionHub.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Hubs\\DetectionHub.cs",
+              "RelativeToolTip": "anprAPI\\Hubs\\DetectionHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:21:31.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OcrDetectorService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\OcrDetectorService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\ServicesImpl\\OcrDetectorService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\ServicesImpl\\OcrDetectorService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\ServicesImpl\\OcrDetectorService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:20:51.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "anprAPI",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\anprAPI.csproj",
+              "RelativeDocumentMoniker": "anprAPI\\anprAPI.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\anprAPI.csproj",
+              "RelativeToolTip": "anprAPI\\anprAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T10:50:41.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "anprAPI\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:28:22.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICameraService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\ICameraService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\IServices\\ICameraService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\ICameraService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\IServices\\ICameraService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T14:29:14.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICameraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\IRepositories\\ICameraRepository.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Repositories\\IRepositories\\ICameraRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\IRepositories\\ICameraRepository.cs",
+              "RelativeToolTip": "anprAPI\\Repositories\\IRepositories\\ICameraRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:26:25.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\RepositoriesImpl\\DetectionRepository.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Repositories\\RepositoriesImpl\\DetectionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\RepositoriesImpl\\DetectionRepository.cs",
+              "RelativeToolTip": "anprAPI\\Repositories\\RepositoriesImpl\\DetectionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:00:10.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CameraManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\CameraManagerService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\IServices\\CameraManagerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\CameraManagerService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\IServices\\CameraManagerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T20:32:15.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CameraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\RepositoriesImpl\\CameraRepository.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Repositories\\RepositoriesImpl\\CameraRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\RepositoriesImpl\\CameraRepository.cs",
+              "RelativeToolTip": "anprAPI\\Repositories\\RepositoriesImpl\\CameraRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:28:37.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Vehicle.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\Domain\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Vehicle.cs",
+              "RelativeToolTip": "anprAPI\\Models\\Domain\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T10:29:00.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDetectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\IRepositories\\IDetectionRepository.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Repositories\\IRepositories\\IDetectionRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Repositories\\IRepositories\\IDetectionRepository.cs",
+              "RelativeToolTip": "anprAPI\\Repositories\\IRepositories\\IDetectionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:19:20.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "anprAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\appsettings.json",
+              "RelativeToolTip": "anprAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T14:39:31.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "YoloDotNet.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\YoloDotNet.csproj",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\YoloDotNet.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\YoloDotNet.csproj",
+              "RelativeToolTip": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\YoloDotNet.csproj",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T10:08:01.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "anprAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "anprAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T16:37:00.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "anprAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\appsettings.Development.json",
+              "RelativeToolTip": "anprAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T16:39:04.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FolderProfile.pubxml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeDocumentMoniker": "anprAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "RelativeToolTip": "anprAPI\\Properties\\PublishProfiles\\FolderProfile.pubxml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-06-12T16:37:11.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "YoloBase.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Data\\YoloBase.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Data\\YoloBase.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Data\\YoloBase.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Data\\YoloBase.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T12:58:10.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Yolo.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Yolo.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Yolo.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Yolo.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Yolo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T16:14:38.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Controllers\\CameraController.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Controllers\\CameraController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Controllers\\CameraController.cs",
+              "RelativeToolTip": "anprAPI\\Controllers\\CameraController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:27:47.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StreamHub.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Hubs\\StreamHub.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Hubs\\StreamHub.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Hubs\\StreamHub.cs",
+              "RelativeToolTip": "anprAPI\\Hubs\\StreamHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T10:32:15.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Stream.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Stream.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\Domain\\Stream.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Stream.cs",
+              "RelativeToolTip": "anprAPI\\Models\\Domain\\Stream.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:53:49.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Plate.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Plate.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\Domain\\Plate.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Plate.cs",
+              "RelativeToolTip": "anprAPI\\Models\\Domain\\Plate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T09:18:30.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Detection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Detection.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\Domain\\Detection.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Detection.cs",
+              "RelativeToolTip": "anprAPI\\Models\\Domain\\Detection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:27:18.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Detector.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Detector.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\Domain\\Detector.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Detector.cs",
+              "RelativeToolTip": "anprAPI\\Models\\Domain\\Detector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:22:07.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Camera.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\Domain\\Camera.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\Camera.cs",
+              "RelativeToolTip": "anprAPI\\Models\\Domain\\Camera.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:51:42.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\Domain\\BaseEntity.cs",
+              "RelativeToolTip": "anprAPI\\Models\\Domain\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:51:37.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IDetectionManagerService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\IDetectionManagerService.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Services\\IServices\\IDetectionManagerService.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Services\\IServices\\IDetectionManagerService.cs",
+              "RelativeToolTip": "anprAPI\\Services\\IServices\\IDetectionManagerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T09:47:12.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CameraDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\DTO\\CameraDto.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\DTO\\CameraDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\DTO\\CameraDto.cs",
+              "RelativeToolTip": "anprAPI\\Models\\DTO\\CameraDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:59:47.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddCameraDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\DTO\\AddCameraDto.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Models\\DTO\\AddCameraDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Models\\DTO\\AddCameraDto.cs",
+              "RelativeToolTip": "anprAPI\\Models\\DTO\\AddCameraDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T18:00:14.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Common\\Data.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Common\\Data.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Common\\Data.cs",
+              "RelativeToolTip": "anprAPI\\Common\\Data.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAcwDkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:51:11.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "JSON.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Common\\JSON.cs",
+              "RelativeDocumentMoniker": "anprAPI\\Common\\JSON.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\anprAPP\\anprAPI\\Common\\JSON.cs",
+              "RelativeToolTip": "anprAPI\\Common\\JSON.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T17:50:01.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ObjectDetection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Models\\ObjectDetection.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Models\\ObjectDetection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Models\\ObjectDetection.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Models\\ObjectDetection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T10:10:36.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "VideoMetadata.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Configuration\\VideoMetadata.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Configuration\\VideoMetadata.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Configuration\\VideoMetadata.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Configuration\\VideoMetadata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:20:12.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VideoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Handlers\\VideoHandler.cs",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Handlers\\VideoHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\YoloDotNet\\YoloDotNet\\Handlers\\VideoHandler.cs",
+              "RelativeToolTip": "..\\..\\source\\repos\\YoloDotNet\\YoloDotNet\\Handlers\\VideoHandler.cs",
+              "ViewState": "AQIAAOoAAAAAAAAAAAAYwP0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T21:20:33.609Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

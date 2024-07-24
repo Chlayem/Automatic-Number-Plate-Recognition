@@ -1,0 +1,6 @@
+@anprAPI_HostAddress = http://localhost:5052
+
+GET {{anprAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

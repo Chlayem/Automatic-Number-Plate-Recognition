@@ -1,0 +1,14 @@
+{
+    "cameras": [
+      { "id": 1, "libelle": "Camera 1", "address": "192.168.0.11" },
+      { "id": 2, "libelle": "Camera 2", "address": "192.168.5.15" },
+      { "id": 3, "libelle": "Camera 3", "address": "192.168.0.23" },
+      { "id": 4, "libelle": "Camera 4", "address": "192.168.11.2" },
+      { "id": 5, "libelle": "Camera 5", "address": "192.168.102.7" }
+    ],
+    "detectors": [
+        { "id": 1, "label": "Detecteur 1", "active":true, "cameraid":"00731c37-23ed-4510-a019-e217814c6dfb" ,"ocrconfidence":"0","vehiculeconfidence":"0"},
+        { "id": 2, "label": "Detecteur 2", "active":false ,"cameraid":"775d7a58-eabe-466d-8835-a4b92f952be0","ocrconfidence":"0","vehiculeconfidence":"0"}
+      ]
+}
+  

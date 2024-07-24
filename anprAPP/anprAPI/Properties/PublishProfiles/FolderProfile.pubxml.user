@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\User\source\repos\anprAPP\anprAPI\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-13T15:14:35.8710174Z;True|2024-06-12T18:06:31.7433505+01:00;True|2024-06-12T18:00:40.7058071+01:00;False|2024-06-12T17:59:52.0735874+01:00;True|2024-06-12T17:40:09.3253412+01:00;True|2024-06-12T17:27:51.6666342+01:00;True|2024-06-12T17:25:41.2866889+01:00;True|2024-06-12T17:05:35.8303964+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

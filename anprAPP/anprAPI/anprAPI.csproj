@@ -1,0 +1,38 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<UserSecretsId>3312d36a-a263-46e7-9f00-5f0a3686e047</UserSecretsId>
+		<UseRidGraph>true</UseRidGraph>
+
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper" Version="13.0.1" />
+		<PackageReference Include="Emgu.CV" Version="4.9.0.5494" />
+		<PackageReference Include="Emgu.CV.runtime.ubuntu-x64" Version="4.9.0.5494" />
+		<PackageReference Include="Emgu.CV.runtime.windows" Version="4.9.0.5494" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+		<PackageReference Include="OpenCvSharp4" Version="4.9.0.20240103" />
+		<PackageReference Include="OpenCvSharp4.runtime.win" Version="4.9.0.20240103" />
+		<PackageReference Include="OpenCvSharp4_.runtime.ubuntu.20.04-x64" Version="4.9.0.20240103" />
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\YoloDotNet\YoloDotNet\YoloDotNet.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<None Update="Assets\Models\**\*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+		<None Update="Assets\Media\**\*">
+			<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+		</None>
+	</ItemGroup>
+	
+
+</Project>

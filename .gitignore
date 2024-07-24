@@ -1,0 +1,12 @@
+node-modules/
+bin/
+obj/
+*.dll
+*.onnx
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+.vscode/
